@@ -24,6 +24,8 @@ II. Software Engineering Proficiencies
    tools (fuzzers, static analyzers, etc.)?  If so, which tools have you used
    and how much experience do you have with them?
 
+4. Have you used version control software?  If so, which ones?
+
 
 III. Operating Systems Concepts
 1. Do you have any experience with debuggers or debugging tools?  If so, which
