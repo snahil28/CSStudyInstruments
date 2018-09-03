@@ -26,6 +26,9 @@ II. Software Engineering Proficiencies
 
 4. Have you used version control software?  If so, which ones?
 
+5. What is your level of familiarity with CI/CD (continuious integration/continuous
+   deployment) procedures and tools?
+
 
 III. Operating Systems Concepts
 1. Do you have any experience with debuggers or debugging tools?  If so, which
@@ -41,6 +44,9 @@ III. Operating Systems Concepts
 
 5. How much experience do you have with networking and socket programming under
    linux?
+
+6. Have you used any virtualization or container technologies?  If so, which
+   ones?  How much experience do you have with them?
 
 
 IV. Developer Demographics
