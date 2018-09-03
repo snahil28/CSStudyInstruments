@@ -69,6 +69,22 @@ V. Open Source Participation
    names for these sites.
 
 
+VI. Likert Questions (These might need to be rolled into the above sections)
+
+1. On a scale of 1 to 5 with 1 being lowest and 5 being the highest, rate your
+   overall skill level at writing code in your most proficient language.
+
+2. On a scale of 1 to 5 with 1 being the lowest and 5 being the highest, rate
+   your overall degree of experience in the above software engineering concerns
+   (i.e. automated testing, source code management etc.).
+   *Preston -> Might want to split this into more granular questions*
+
+3. On a scale of 1 to 5 with 1 being the loest and 5 being the highest, rate
+   your overall degree of experience in operating system concepts (i.e. system
+   calls, application runtimes, etc.).
+
+
+
 ## Post Survey?
 1. Opinions about the tools
     - What tool where they most successful with
