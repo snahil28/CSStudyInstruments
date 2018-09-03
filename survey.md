@@ -50,6 +50,19 @@ IV. Developer Demographics
 
 3. Do you have any professional work experience? If so, discuss.
 
+
+V. Open Source Participation
+1. Have you contributed code/patches to any open source projects? If so, which
+   ones and to what extent?
+
+2. Have you submitted bug reports to any open source projects?  If so, which
+   ones?
+
+3. Do you participate in any open source social development sites (e.g. GitHub,
+   BitBucket, etc.)  If so, which ones? You do not need to provide your account
+   names for these sites.
+
+
 ## Post Survey?
 1. Opinions about the tools
     - What tool where they most successful with
