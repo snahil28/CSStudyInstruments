@@ -1,21 +1,52 @@
 # Survey
 
 ## Developer Background Pre-Survey
-1. Programming Language Proficiencies
-2. Software Engineering Proficiencies
-    - Experience with automated testing
-    - Experience with test driven development
-    - Constructing test suites
-3. Operating Systems Concepts
-    - Debuggers
-    - compilers
-    - Familiarity with system calls
-    - Assembly language?
-    - Registers and all that
-4. Developer Demographics
-    - Current academic program being attended
-    - Past education
-    - Past work experience
+I. Programming Language Proficiencies
+
+1. How many years of experience do you have in writing and debugging C
+   applications?
+
+2. How many years of experience do you have in writing and debugging Python
+   applications?
+
+3. In which programming langauge do you consider yourself most proficient?
+
+
+II. Software Engineering Proficiencies
+
+1. Do you have any experience in writing individual automated tests (unit tests,
+   integration tests, etc.) for a software project? If so, discuss.
+
+2. Do you have any experience in designing and implementing automated test
+   suites (i.e. unit test suites, integration test suites).
+
+3. Do you have any experience testing software projects using automated testing
+   tools (fuzzers, static analyzers, etc.)?  If so, which tools have you used
+   and how much experience do you have with them?
+
+
+III. Operating Systems Concepts
+1. Do you have any experience with debuggers or debugging tools?  If so, which
+   ones and how much?
+
+2. What is your familiarity with Linux applications and how they interact with
+   the operating system?
+
+3. What is your familiarity with the Linux C runtime?
+
+4. How strong is your understanding of system calls as they are implemented
+   under Linux?
+
+5. How much experience do you have with networking and socket programming under
+   linux?
+
+
+IV. Developer Demographics
+1. What academic program are you attending?
+
+2. What previous education
+
+3. Do you have any professional work experience? If so, discuss.
 
 ## Post Survey?
 1. Opinions about the tools
@@ -29,7 +60,7 @@
 
 # Interview Questionnaire
 
-1. 
+1.
 
 
 
