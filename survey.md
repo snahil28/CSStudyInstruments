@@ -34,7 +34,7 @@
 
 
 
-# Weekly Brief Update Tool
+# Brief Weekly Update
 
 List the bugs you worked on. Use a project specific identifier or make something
 up (e.g. bpo-200000, yet-unnamed-git-bug, or similar).
