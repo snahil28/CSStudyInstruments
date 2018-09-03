@@ -75,9 +75,6 @@ V. Open Source Participation
     - What tool where they least successful with
     - Did they give up on any tool
 
-# Observations
-
-
 
 # Interview Questionnaire
 
