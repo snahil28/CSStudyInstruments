@@ -84,18 +84,35 @@ VI. Likert Questions (These might need to be rolled into the above sections)
    calls, application runtimes, etc.).
 
 
-
 ## Post Survey?
-1. Opinions about the tools
-    - What tool where they most successful with
-    - What tool where they least successful with
-    - Did they give up on any tool
+
+I. Opinions about the tools
+
+1. With what tool were you **most** successful in finding bugs?
+
+2. With what tool were you the **least** successful in finding bugs?
+
+3. Which tool did you **most** perfer working with?
+
+4. Which tool did you **least** prefer working with?
+
+For the following questions, choose which tool you feel is the best fit for the
+given scenario.  If no tool is appropriate, state as much. If possible, please
+describe your reasoning.
+
+1. You must choose a tool to use for your own personal work in finding bugs in
+   open source projects.
+
+2. You must choose a tool to integrate into into the testing procedures for a
+   large software project.
+
+3. You must choose a tool to assist a novice developer in debugging their class
+   projects.
 
 
 # Interview Questionnaire
 
-1.
-
+*Preston-> I need to think about what we would ask here*
 
 
 
