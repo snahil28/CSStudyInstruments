@@ -66,7 +66,7 @@
 
 1. What academic program are you attending?
 
-2. What previous education
+2. Do you hold any prior degrees?
 
 3. Do you have any professional work experience? If so, discuss.
 
