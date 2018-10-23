@@ -1,12 +1,13 @@
 # Survey
 
 ## Developer Background Pre-Survey
+
 I. Programming Language Proficiencies
 
-1. How many years of experience do you have in writing and debugging C
+1. On a scale of 1 to 5, how experienced are you in writing and debugging C
    applications?
 
-2. How many years of experience do you have in writing and debugging Python
+2. On a scale of 1 to 5, how experienced are you in writing and debugging Python
    applications?
 
 3. In which programming langauge do you consider yourself most proficient?
@@ -14,42 +15,57 @@ I. Programming Language Proficiencies
 
 II. Software Engineering Proficiencies
 
-1. Do you have any experience in writing individual automated tests (unit tests,
-   integration tests, etc.) for a software project? If so, discuss.
+1. On a scale of 1 to 5, how experienced are you with using automated testing
+   setups to assist in software development?
 
-2. Do you have any experience in designing and implementing automated test
-   suites (i.e. unit test suites, integration test suites).
+2. On a scale of 1 to 5, how experienced are you with constructing tests (unit
+   tests, integration tests, etc.) for a software project?
 
-3. Do you have any experience testing software projects using automated testing
-   tools (fuzzers, static analyzers, etc.)?  If so, which tools have you used
-   and how much experience do you have with them?
+3. On a scale of 1 to 5, how experienced are you in designing and implementing
+   large automated test suites (i.e. unit test suites, integration test suites).
 
-4. Have you used version control software?  If so, which ones?
+4. On a scale of 1 to 5, how experienced are you in testing software projects
+   using automated testing tools (fuzzers, static analyzers, etc.)?
 
-5. What is your level of familiarity with CI/CD (continuious integration/continuous
-   deployment) procedures and tools?
+5. Which automated testing tools and frameworks have you used?
+
+6. On a scale of 1 to 5, how experienced are you with version control software?
+
+7. What version control software have you used?
+
+8. On a scale of 1 to 5, how experienced are you with CI/CD (continuious
+   integration/continuous deployment) procedures and tools?
+
+9. What CI/CD tools have you used?
 
 
 III. Operating Systems Concepts
-1. Do you have any experience with debuggers or debugging tools?  If so, which
-   ones and how much?
 
-2. What is your familiarity with Linux applications and how they interact with
-   the operating system?
+1. On a scale of 1 to 5, how experienced are you with debuggers or debugging
+   tools?
 
-3. What is your familiarity with the Linux C runtime?
+2. What debuggers or debugging tools have you used?
 
-4. How strong is your understanding of system calls as they are implemented
-   under Linux?
+3. On a scale of 1 to 5, how experienced are you with Linux and Linux
+   applications?
 
-5. How much experience do you have with networking and socket programming under
-   linux?
+4. On a scale of 1 to 5, how experienced are you with the low level details of
+   the Linux C runtime?
 
-6. Have you used any virtualization or container technologies?  If so, which
-   ones?  How much experience do you have with them?
+5. On a scale of 1 to 5, how strong is your understanding of system calls as
+   they are implemented under Linux?
+
+6. On a scale of 1 to 5, how much experience do you have with networking and
+   socket programming under Linux?
+
+7. On a scale of 1 to 5, how experienced are you with virtualization and
+   container technologies?
+
+8. Which virtualization and container technologies have you used?
 
 
 IV. Developer Demographics
+
 1. What academic program are you attending?
 
 2. What previous education
@@ -58,6 +74,7 @@ IV. Developer Demographics
 
 
 V. Open Source Participation
+
 1. Have you contributed code/patches to any open source projects? If so, which
    ones and to what extent?
 
@@ -69,58 +86,10 @@ V. Open Source Participation
    names for these sites.
 
 
-VI. Likert Questions (These might need to be rolled into the above sections)
-
-1. On a scale of 1 to 5 with 1 being lowest and 5 being the highest, rate your
-   overall skill level at writing code in your most proficient language.
-
-2. On a scale of 1 to 5 with 1 being the lowest and 5 being the highest, rate
-   your overall degree of experience in the above software engineering concerns
-   (i.e. automated testing, source code management etc.).
-   *Preston -> Might want to split this into more granular questions*
-
-3. On a scale of 1 to 5 with 1 being the loest and 5 being the highest, rate
-   your overall degree of experience in operating system concepts (i.e. system
-   calls, application runtimes, etc.).
-
-
-## Post Survey?
-
-I. Opinions about the tools
-
-1. With what tool were you **most** successful in finding bugs?
-
-2. With what tool were you the **least** successful in finding bugs?
-
-3. Which tool did you **most** perfer working with?
-
-4. Which tool did you **least** prefer working with?
-
-For the following questions, choose which tool you feel is the best fit for the
-given scenario.  If no tool is appropriate, state as much. If possible, please
-describe your reasoning.
-
-1. You must choose a tool to use for your own personal work in finding bugs in
-   open source projects.
-
-2. You must choose a tool to integrate into into the testing procedures for a
-   large software project.
-
-3. You must choose a tool to assist a novice developer in debugging their class
-   projects.
-
-
-# Interview Questionnaire
-
-*Preston-> I need to think about what we would ask here*
-
-
-
 # Brief Weekly Update
 
 List the bugs you worked on this week. Use a project specific identifier or make
 something up (e.g. bpo-200000, yet-unnamed-git-bug, or similar).
-
 
 
 Place each of the above bugs into one of the following stages:
@@ -157,3 +126,6 @@ Are there any bugs where you are stuck?  If so, why?
 Are there any bugs you have given up on? If so, why?
 
 Have you encountered any tool related problems?
+
+
+## Post-survey
