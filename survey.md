@@ -1,80 +1,17 @@
-## Developer Background Pre-Survey
-
-### I. Programming Language Proficiencies
-
-1. On a scale of 1 to 5, how experienced are you in writing and debugging C
-   applications?
-
-2. On a scale of 1 to 5, how experienced are you in writing and debugging Python
-   applications?
-
-3. In which programming language do you consider yourself most proficient?
-
-
-### II. Software Engineering Proficiencies
-
-1. On a scale of 1 to 5, how experienced are you with using automated testing
-   setups to assist in software development?
-
-2. On a scale of 1 to 5, how experienced are you with constructing tests (unit
-   tests, integration tests, etc.) for a software project?
-
-3. On a scale of 1 to 5, how experienced are you in designing and implementing
-   large automated test suites (i.e. unit test suites, integration test suites).
-
-4. On a scale of 1 to 5, how experienced are you in testing software projects
-   using automated testing tools (fuzzers, static analyzers, etc.)?
-
-5. Which automated testing tools and frameworks have you used?
-
-6. On a scale of 1 to 5, how experienced are you with version control software?
-
-7. What version control software have you used?
-
-8. On a scale of 1 to 5, how experienced are you with CI/CD (continuous
-   integration/continuous deployment) procedures and tools?
-
-9. What CI/CD tools have you used?
-
-
-### III. Operating Systems Concepts
-
-1. On a scale of 1 to 5, how experienced are you with debuggers or debugging
-   tools?
-
-2. What debuggers or debugging tools have you used?
-
-3. On a scale of 1 to 5, how experienced are you with Linux and Linux
-   applications?
-
-4. On a scale of 1 to 5, how experienced are you with the low level details of
-   the Linux C runtime?
-
-5. On a scale of 1 to 5, how strong is your understanding of system calls as
-   they are implemented under Linux?
-
-6. On a scale of 1 to 5, how much experience do you have with networking and
-   socket programming under Linux?
-
-7. On a scale of 1 to 5, how experienced are you with virtualization and
-   container technologies?
-
-8. Which virtualization and container technologies have you used?
-
+#  Pre-Survey
 
 ### IV. Developer Demographics
 
-1. What academic program are you attending?
+1. What academic program are you currently attending?
 
-2. Do you hold any prior degrees?
+2. Do you hold any prior degrees or certifications?
 
-3. Do you have any professional work experience? If so, discuss.
+3. Do you have any professional work experience?
 
 
 ### V. Open Source Participation
 
-1. Have you contributed code/patches to any open source projects? If so, which
-   ones and to what extent?
+1. How many patches or pull requests have you contributed to open source projects?
 
 2. Have you submitted bug reports to any open source projects?  If so, which
    ones?
@@ -86,10 +23,9 @@
 
 # Brief Weekly Update
 
-1. List the bugs you worked on this week. Use a project specific identifier or make something up (e.g. bpo-200000, yet-unnamed-git-bug, or similar).
+List the bugs you worked on this week. Use a project specific identifier or make something up (e.g. bpo-200000, yet-unnamed-git-bug, or similar).
 
-
-2. Place each of the above bugs into one of the following stages:
+Place each of the above bugs into one of the following stages:
 
 Bug Identified:
 
@@ -110,7 +46,7 @@ their developer documentation_
 
 Communication with Project in Progress:
 
-_Your bug report and fix submission have been acknowledge by the project and
+_Your bug report and fix submission have been acknowledged by the project and
 they are working to merge it or have requested you modify your submission in
 some way_
 
@@ -118,23 +54,23 @@ Bug Fix Accepted or Merged:
 
 _Your fix has been merged into the project or accepted for a future release_
 
-3. Are there any bugs where you are stuck?  If so, why?
+1. Are there any bugs where you were unable to make progress?  If so, why?
 
-4. Are there any bugs you have given up on? If so, why?
+2. Are there any bugs you have given up on? If so, why?
 
-5. Have you encountered any tool related problems?
+3. Have you encountered any tool related problems?
 
 
 ## Post-survey or Interview
 
-1. Of the bugs you found with CrashSimulator, which was the easiest to work
-   with and correct?  Why?
+1. Of the bugs you found with CrashSimulator, which was the easiest to correct?
+   Why?
 
 2. Of the bugs you found with CrashSimulator, which was the most difficult to
-   work with and correct?  Why?
+   correct?  Why?
 
-3. Did you have any previous skills that made it easier for you to work with
-   CrashSimulator?
+3. Do you think any previous skills or experience made it easier for you to work
+   with CrashSimulator?  If so, please describe.
 
 4. Overall, did you have a positive or negative experience with CrashSimulator?
    Why?
@@ -150,5 +86,5 @@ _Your fix has been merged into the project or accepted for a future release_
 8. Did you submit any improvements to CrashSimulator itself?  If so, what parts
    of this process were the easiest/most difficult to deal with?
 
-9. Did you enhance CrashSimulator by contributing new environmental anomalies?
-   If so, what parts of this process were easiest/most difficult to deal with?
+9. Did you contribute new environmental anomalies to CrashSimulator?  If so,
+   what parts of this process were easiest/most difficult to deal with?
