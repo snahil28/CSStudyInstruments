@@ -8,7 +8,8 @@ Every week you will create another entry in every bugs file discussing the
 progress you made during the week.  You should place each bug in one of the
 "bug fix stages" described below.  Please also discuss any difficulties you
 encounter in fixing the bug or with CrashSimulator itself.  Take a look at
-example\_python\_shutil\_race.md for an example.
+[example\_python\_shutil\_race.md](example_python_shutil_race.md) for an
+example.
 
 
 ## Details We are Looking For
