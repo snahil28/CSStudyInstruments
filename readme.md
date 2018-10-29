@@ -25,3 +25,27 @@ your fork of this repository so I can collect them.
 # Step 3 - Take a Moment to Read the Weekly Update Instructions
 
 They can be found [here](bugs/weekly_update_instructions.md)
+
+
+## Important
+
+Please do not include personal details in anything you push as it is
+*visible to the entire world!*
+
+Yes:
+```
+Bug Stage: Source of Bug Diagnosed
+
+I was unable to work on this bug.
+
+```
+
+No!:
+
+Bug Stage: Source of Bug Diagnosed
+
+I couldn't work on the bug because Halloween was coming up and I needed to
+take my dog costume shopping!  He's gonna be a hot dog! Get it?
+
+``
+
