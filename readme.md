@@ -47,5 +47,5 @@ Bug Stage: Source of Bug Diagnosed
 I couldn't work on the bug because Halloween was coming up and I needed to
 take my dog costume shopping!  He's gonna be a hot dog! Get it?
 
-``
+```
 
