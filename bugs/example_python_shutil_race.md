@@ -9,6 +9,10 @@ The Python shutil module has a function called copyfile that has a race
 condition when the file being copied is modified between the time when it
 is initially checked and when it is actually copied.
 
+
+## Updates
+
+
 ### Week 1
 
 ** current stage: Bug Identified **
