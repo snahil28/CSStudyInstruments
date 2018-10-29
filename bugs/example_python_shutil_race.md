@@ -15,7 +15,7 @@ is initially checked and when it is actually copied.
 
 ### Week 1
 
-** current stage: Bug Identified **
+**current stage: Bug Identified**
 
 Bug discovered when file move checker was used to analyze a dead trace of
 shutil.rename() moving a file from one disk to another under Linux.
@@ -26,7 +26,7 @@ resulting in a fallback manual copy being performed.
 
 ### Week 2
 
-** current stage: Source of Bug Diagnosed **
+**current stage: Source of Bug Diagnosed**
 
 Further work on this bug indicates that the problem exists because there
 the current implementation of the internal function copyfile() does not
@@ -36,7 +36,7 @@ way to fix this.
 
 ### Week 3
 
-** current stage:  Bug Fix Implemented **
+**current stage:  Bug Fix Implemented**
 
 Analysis of coreutils mv source code indicates one approach to fix this
 problem is to store the inode number of the file being moved on the initial
@@ -44,7 +44,7 @@ check and confirm that it hasn't changed after being open()'d by using
 fstat() on its file descritor.  Fix has been implemented and is available
 on this fork: https://github.com/myname/cpython
 
-** current stage: Bug Fix Submitted to Project: **
+**current stage: Bug Fix Submitted to Project:**
 
 Bug has been reported to the cpython bug tracker and as an issue on
 cpython's github according to project standards.  Bug has been assigned
@@ -54,14 +54,14 @@ GitHub issue: link \<link here\>
 
 ###  Week 4
 
-** current stage: Communication with Project in Progress **
+**current stage: Communication with Project in Progress**
 
 Strategy implemented in fix was not accepted by project maintainers.  They
 suggested an alternate strategy involving open()'ing the file as early as
 possible and using file descriptor-dependent system calls from then on out
 to resolve the race condition.  Currently working on this new fix
 
-** current stage: Bug Fix Accepted or Merged **
+**current stage: Bug Fix Accepted or Merged**
 
 Fix with suggested strategy has been submitted, accepted, and merged.  Bug
 has been marked as resolved at \<Link to python bug tracker\>
