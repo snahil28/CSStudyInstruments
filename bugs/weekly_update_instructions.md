@@ -41,7 +41,7 @@ I was unable to work on this bug.
 ```
 
 No!:
-
+```
 Bug Stage: Source of Bug Diagnosed
 
 I couldn't work on the bug because Halloween was coming up and I needed to
