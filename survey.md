@@ -2,11 +2,11 @@
 
 ### I. Developer Demographics
 
-1. What academic program are you currently attending?
+1. What academic program are you currently pursuing?
 
-2. Do you hold any prior degrees or certifications?
+2. Do you hold any prior degrees or certifications?  If so, please list them
 
-3. Do you have any professional work experience?
+3. Do you have any professional software development experience?
 
 
 ### II. Open Source Participation

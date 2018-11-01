@@ -1,7 +1,7 @@
 # Weekly Update
 
-Please follow this format for tracking your progress on any bugs you work
-on during the week.
+Please follow this format to record your progress in dealing with any bugs
+you work on during the week.
 
 Each bug is associated with a single markdown file with a descriptive name.
 Every week you will create another entry in every bugs file discussing the
@@ -14,16 +14,17 @@ example.
 
 ## Details We are Looking For
 
-Please be detailed in your updates but do not be overly verbose.  Include
-any _technical_ detail that you think would be helpful in understanding
-your updates.  This can be documentation links or excerpts, code snippets,
-error logs or output etc.
+We want you to submit detailed updates but not want to read accounts that
+are overly verbose.  Include any _technical_ detail that you think would be
+helpful in understanding your updates.  This type of detail could include
+documentation links or excerpts, code snippets, error logs or output etc.
 
-If you had trouble with CrashSimulator or any associated tooling detail
-what happened and consider opening an issue on GitHub if appropriate.
+If you had trouble with CrashSimulator or any associated tooling, please
+also detail what happened.  Feel free to open an issue on GitHub if
+appropriate.
 
-If you abandoned a bug, please give technical details why you decided to do
-so.
+If you abandoned a bug, please provide technical details as to you decided
+to do so.
 
 ## Important
 
@@ -51,7 +52,8 @@ take my dog costume shopping!  He's gonna be a hot dog! Get it?
 
 ## Bug Fix Stages
 
-Place each of the above bugs into one of the following stages:
+As part of each log entry please describe your progress working on the bug
+by labeling it with one of the following stages:
 
 *Bug Identified:*
 
