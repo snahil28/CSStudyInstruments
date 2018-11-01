@@ -4,12 +4,11 @@ Please follow this format to record your progress in dealing with any bugs
 you work on during the week.
 
 Each bug is associated with a single markdown file with a descriptive name.
-Every week you will create another entry in every bugs file discussing the
-progress you made during the week.  You should place each bug in one of the
-"bug fix stages" described below.  Please also discuss any difficulties you
-encounter in fixing the bug or with CrashSimulator itself.  Take a look at
-[example\_python\_shutil\_race.md](example_python_shutil_race.md) for an
-example.
+Every week you will create another entry for each bug, placing it in one of
+the "bug fix stages described below.  Please also discuss any difficulties
+you encounter in fixing the bug, or with CrashSimulator itself.  Take a
+look at [example\_python\_shutil\_race.md](example_python_shutil_race.md)
+for an example.
 
 
 ## Details We are Looking For
@@ -23,8 +22,8 @@ If you had trouble with CrashSimulator or any associated tooling, please
 also detail what happened.  Feel free to open an issue on GitHub if
 appropriate.
 
-If you abandoned a bug, please provide technical details as to you decided
-to do so.
+If you decide to abandon a bug, please provide technical details as to you
+decided to do so.
 
 ## Important
 
@@ -52,7 +51,7 @@ take my dog costume shopping!  He's gonna be a hot dog! Get it?
 
 ## Bug Fix Stages
 
-As part of each log entry please describe your progress working on the bug
+As part of each log entry, please describe your progress working on the bug
 by labeling it with one of the following stages:
 
 *Bug Identified:*
@@ -74,9 +73,9 @@ their developer documentation
 
 *Communication with Project in Progress:*
 
-Your bug report and fix submission have been acknowledged by the project and
-they are working to merge it or have requested you modify your submission in
-some way
+Your bug report and fix submission have been acknowledged by the project
+and they are working to merge it, or have requested you modify your
+submission in some way
 
 *Bug Fix Accepted or Merged:*
 

@@ -6,7 +6,9 @@
 
 2. Do you hold any prior degrees or certifications?  If so, please list them
 
-3. Do you have any professional software development experience?
+3. Do you have any professional software development experience?  If so,
+   please list the type of work performed and the length (in years) of your
+   experience.
 
 
 ### II. Open Source Participation

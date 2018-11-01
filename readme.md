@@ -2,7 +2,8 @@
 
 Hello everyone!  We'll be using this repository as a staring point for you
 submissions during the environmental anomalies portion of Secure System's
-Engineering.  Please take a moment to follow the steps below.
+Engineering.  Please take a moment to review the following steps and then
+complete each of the required actions.
 
 # Step 0 - Setup
 
