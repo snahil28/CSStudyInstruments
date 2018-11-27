@@ -7,8 +7,8 @@ Tasks done this week -
 * Tested all the packages with this latest version
 
 * Raised following issues -
-  Issue for [access not implemented](https://github.com/pkmoore/rrapper/issues/56)
-  Issue for [mmap_backing_files](https://github.com/pkmoore/rrapper/issues/55)
+  * Issue for [access not implemented](https://github.com/pkmoore/rrapper/issues/56)
+  * Issue for [mmap_backing_files](https://github.com/pkmoore/rrapper/issues/55)
   
 * Also incurred other issues like,
   Unable to run reverse_time mutator, no changes are being reflected in strace file after executing it.
