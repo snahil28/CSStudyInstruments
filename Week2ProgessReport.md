@@ -2,9 +2,9 @@
 
 Tasks done this week - 
 
-* Installed latest version of CrashSimulator, where in it displays the event number also in the strace file.
+* Installed latest version of CrashSimulator, where it also displays the event number in the strace file.
 
-* Tested all the packages with this latest version
+* Tested all packages with the latest version 
 
 * Raised following issues -
   * Issue for [access not implemented](https://github.com/pkmoore/rrapper/issues/56)
