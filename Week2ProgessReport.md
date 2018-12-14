@@ -20,7 +20,7 @@ Tasks done this week -
 * Ran into some false negative cases like,
   Changing device types in cmp and diff, throws ReplayDataError in some cases where as it runs fine in actual scenario. Need     to investigate more on this.
 
-* Looked into the source code for fmt, found that they have a case for handling standard input stream, else it just tries       openeing the file given.
+* Looked into the source code for fmt, found that they have one check for handling standard input stream, else it just tries     to open the given file argument.
 
   
   
