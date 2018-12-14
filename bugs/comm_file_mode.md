@@ -10,7 +10,7 @@ The comm module takes input file argument and behaves weirdly on filetypes - S_I
 
 **Current Stage: Bug Identification**
 
-Comm keeps on waiting for input when given S_IFCHR filetype, throws infinte garbage output when given S_IFBLK filetype and agaisn keeps on taking input when given S_IFIFO file type in input.
+Comm keeps on waiting for input when given S_IFCHR filetype, gives infinte garbage as output when given S_IFBLK filetype and again keeps on taking input when given S_IFIFO file type as input.
 In Crash Simulator, ReplayDataError is thrown only for S_IFCHR filetype, rest works fine with Crash simulator.
 
 ### Week 3
