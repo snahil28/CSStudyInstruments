@@ -3,7 +3,7 @@
 * Link to Bug on Project Bug Tracker: https://bugs.launchpad.net/ubuntu/+source/coreutils/+bug/1808092
 * Current Stage: Bug raised attached with a patch  
 
-The fmt module takes input file argument, and only checks if it is for stfin else it just opens it and starts performing operations on it, it doesn't check for weird filetypes and waits for input indefinitely (char device or FIFO) or keeps running on certain input (block device)
+The fmt module takes input file argument, and only checks if it is for stdin else it just opens it and starts performing operations on it, it doesn't check for weird filetypes and waits for input indefinitely (char device or FIFO) or keeps running on certain input (block device)
 
 
 ## Updates
