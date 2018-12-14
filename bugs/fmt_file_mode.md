@@ -21,5 +21,12 @@ copied.
 When ruuning fmt through crash simulator, modified st_mode and observed the following cases-
 1. When changed to S_IFIFO, fmt works fine in crash simulator, whereas in actual it does nothing.
 2. When changed to S_IFBLK, fmt works fine in crash simulator, whereas it keeps on running in actual scenario.
+3. When changed to S_IFCHR, fmt throws ReplayDataError in crash simulator, and it waits for input in actual scenario.
 
 Need to investigate more to see what is making it to behave diffrently here.
+
+### Week 5
+
+Submitted a patch to fix fmt, where in need to check the following file types- S_IFIFO, S_IFBLK, S_IFCHR and throw message accordingly.
+Link to the implementation - 
+https://bugs.launchpad.net/ubuntu/+source/coreutils/+bug/1808092
