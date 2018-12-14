@@ -25,6 +25,29 @@ When ruuning fmt through crash simulator, modified st_mode and observed the foll
 
 Need to investigate more to see what is making it to behave diffrently here.
 
+### Week 2
+
+**Current Stage: Source of Bug Diagnosed**
+
+Asked Preston about the above behaviour, and tried testing it with various filetypes and read man page to see if it is expected behaviour or not.
+
+
+### Week 3
+
+**Current Stage: Bug Fix Implemented**
+
+Made a patch to check the filetypes and tested it with various filetypes.
+Modified test case to support newly introduced errors.
+
+
+### Week 4
+
+**Current Stage: Bug Fix Submitted to Project**
+
+Continued tesxting the patch against weird filetypes.
+Got my changes verified with Preston, and worked on things suggested by him.
+
+
 ### Week 5
 
 Submitted a patch to fix fmt, to include checks for following file types- S_IFIFO, S_IFBLK, S_IFCHR and throw message accordingly.
