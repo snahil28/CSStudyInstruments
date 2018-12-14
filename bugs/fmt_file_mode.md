@@ -1,14 +1,9 @@
 ## Meta
-* Project: cpython
-* Project Bug Identifier: bpo-30400
+* Project: fmt
 * Link to Bug on Project Bug Tracker: \<imagine bugs.python.org url here\>
-* Current Stage: Bug Fix Accepted or Merged
-* Brief description (This can change as you progress) :
+* Current Stage: Bug Fix sent 
 
-The Python shutil module has a function called copyfile that has a race
-condition when the file being copied is modified. The race condition occurs
-between the time when it is initially checked and when it is actually
-copied.
+The fmt module takes input file argument, and only checks if it is for stfin else it just opens it and starts performing operations on it, it doesn't check for weird filetypes and waits for input indefinitely (char device or FIFO) or keeps running on certain input (block device)
 
 
 ## Updates
