@@ -27,6 +27,6 @@ Need to investigate more to see what is making it to behave diffrently here.
 
 ### Week 5
 
-Submitted a patch to fix fmt, where in need to check the following file types- S_IFIFO, S_IFBLK, S_IFCHR and throw message accordingly.
+Submitted a patch to fix fmt, to include checks for following file types- S_IFIFO, S_IFBLK, S_IFCHR and throw message accordingly.
 Link to the implementation - 
 https://bugs.launchpad.net/ubuntu/+source/coreutils/+bug/1808092
