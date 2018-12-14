@@ -5,5 +5,5 @@ Issues raised -
 
 Continued working on following packages - fmt, join, comm, cmp, diff
 
-Tried to figure out ways how can I test packages(like at, ispell which requires interactive shell for communication) in Crash simulator
+Tried figuring out ways to test packages(like at, ispell which requires interactive shell for communication) in Crash simulator
 
